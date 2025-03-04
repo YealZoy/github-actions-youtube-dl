@@ -1,6 +1,6 @@
 # github-actions-youtube-dl
 
-使用 GitHub Actions 下载 YouTube 视频。
+使用 GitHub Actions 下载 YouTube 视频。   
 
 ## 原理
 
